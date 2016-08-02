@@ -1,8 +1,8 @@
 {
-  "name": "react-antd-redux-router-starter-demo",
+  "name": "react-antd-demo",
   "version": "1.0.0",
   "description": "This project is designed to help those who use antd to develop a website(or web app). Maybe also need to use redux, router and so on.",
-  "author": "yuzhouisme",
+  "author": "shen.sxl",
   "entry": {
     "index": "./src/entry/index.jsx"
   },
